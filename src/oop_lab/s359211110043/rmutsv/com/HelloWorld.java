@@ -7,7 +7,9 @@ public static void main(String[] args) {
 
     System.out.println("Hello world, I'm AORN");
     System.out.println("My name is Aornuma Datesri");
-
+//    Add information
+    System.out.println("Faculty : Management Technology");
+    System.out.println("RMUTSV");
 }//main
 
 }//class

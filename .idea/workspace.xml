@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748829ea-ef1f-4581-93c3-484a7373fa8d" name="Default" comment="Testing upload to Github">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110043/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../oop_359211110043/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110043/src/oop_lab/s359211110043/rmutsv/com/HelloWorld.java" afterPath="$PROJECT_DIR$/../oop_359211110043/src/oop_lab/s359211110043/rmutsv/com/HelloWorld.java" />
-    </list>
+    <list default="true" id="748829ea-ef1f-4581-93c3-484a7373fa8d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../oop_359211110043/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -244,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511060690446</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Testing upload to Github">
+      <created>1511062356984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511062356984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">

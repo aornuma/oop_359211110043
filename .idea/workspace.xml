@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748829ea-ef1f-4581-93c3-484a7373fa8d" name="Default" comment="Variables and Data Types">
+    <list default="true" id="748829ea-ef1f-4581-93c3-484a7373fa8d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110043/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../oop_359211110043/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110043/src/ooplab2/TestInputData.java" afterPath="$PROJECT_DIR$/../oop_359211110043/src/ooplab2/TestInputData.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../oop_359211110043/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -329,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511165761975</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Variables and Data Types">
+      <created>1511168555137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511168555137</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">

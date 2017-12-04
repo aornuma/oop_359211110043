@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748829ea-ef1f-4581-93c3-484a7373fa8d" name="Default" comment="OOPLab3">
+    <list default="true" id="748829ea-ef1f-4581-93c3-484a7373fa8d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestNestedLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestWhileLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../oop_359211110043/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../oop_359211110043/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../oop_359211110043/out/" />
@@ -14,14 +16,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalGade.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab3/CalGade.java">
+      <file leaf-file-name="TestWhileLoop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestWhileLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="275">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNestedLoop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestNestedLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,6 +63,8 @@
         <option value="$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestSwitch.java" />
         <option value="$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestForLoop.java" />
         <option value="$PROJECT_DIR$/../oop_359211110043/src/ooplab3/CalGade.java" />
+        <option value="$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestWhileLoop.java" />
+        <option value="$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestNestedLoop.java" />
       </list>
     </option>
   </component>
@@ -78,9 +90,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,7 +126,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalGade">
+  <component name="RunManager" selected="Application.TestNestedLoop">
     <configuration name="CalGade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -145,25 +157,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ooplab3.CalGade" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../oop_359211110043" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="oop_359211110043" />
-      <envs />
-    </configuration>
-    <configuration name="TestCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ooplab3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab3.TestCondition" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../oop_359211110043" />
@@ -194,14 +187,14 @@
       <module name="oop_359211110043" />
       <envs />
     </configuration>
-    <configuration name="TestInputData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ooplab2.*" />
+          <option name="PATTERN" value="ooplab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab2.TestInputData" />
+      <option name="MAIN_CLASS_NAME" value="ooplab3.TestNestedLoop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../oop_359211110043" />
@@ -221,6 +214,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ooplab3.TestSwitch" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../oop_359211110043" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="oop_359211110043" />
+      <envs />
+    </configuration>
+    <configuration name="TestWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ooplab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ooplab3.TestWhileLoop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../oop_359211110043" />
@@ -314,19 +326,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestInputData" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestCondition" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CalGade" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestSwitch" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestForLoop" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CalGade" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestSwitch" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestForLoop" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CalGade" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestForLoop" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestSwitch" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestCondition" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestInputData" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestWhileLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CalGade" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestForLoop" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestSwitch" />
       </list>
     </recent_temporary>
   </component>
@@ -411,11 +423,19 @@
       <option name="project" value="LOCAL" />
       <updated>1511775539154</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="OOPLab3">
+      <created>1511775689079</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511775689079</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -426,11 +446,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29885057" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29885057" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23600605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2397882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -457,13 +477,22 @@
     <MESSAGE value="Testing input again" />
     <MESSAGE value="Grade and Condition" />
     <MESSAGE value="CalGrade" />
-    <option name="LAST_COMMIT_MESSAGE" value="CalGrade" />
+    <MESSAGE value="OOPLab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPLab3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab2/TestInputData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab2/TestVariabal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -492,14 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab2/TestInputData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -541,8 +562,32 @@
         <state relative-caret-position="299">
           <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab2/TestInputData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestWhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oop_359211110043/src/ooplab3/TestNestedLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

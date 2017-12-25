@@ -1,5 +1,7 @@
 package ppolab5;
 
+import java.util.Scanner;
+
 public class myArray {
     private static int MAX = 10;
     public static void main(String[] args) {
@@ -22,9 +24,11 @@ public class myArray {
 
     }//main
     private static void showData(int[]num){
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Data in array : ");
         for (int i=0; i<num.length; i++){
             System.out.print(num[i]+" ");
+            num [i] = scanner.nextInt();
         }
         System.out.println();
     }

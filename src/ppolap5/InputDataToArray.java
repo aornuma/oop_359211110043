@@ -21,7 +21,7 @@ public class InputDataToArray {
 //        for (int i = 0; i < num.length; i++) {
 //            System.out.print(num[i] + " ");
 //        }
-        //enchance loop
+        //enhance loop
         for (int i : num){
             System.out.print(i+ " ");
         }
